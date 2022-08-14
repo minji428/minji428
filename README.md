@@ -61,7 +61,8 @@ I hope to develop every beautiful things. ✨
 
 #
 <!-- GitHub 상태 -->
-[![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji428)](https://github.com/minji428/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji428&layout=compact)
+[![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji428)](https://github.com/minji428/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji428&layout=compact)
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minji1803)](https://solved.ac/minji1803/)
 
