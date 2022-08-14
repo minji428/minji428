@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 -->
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji428&count_bg=%23F7B7EA&title_bg=%23FF67B9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- Notion -->
 <a href="https://sulfuric-tin-0be.notion.site/283fe820d65e417693805e57f34bc4f9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/alswl980428@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
@@ -61,3 +61,4 @@ I hope to develop every beautiful things. ✨
 <!-- GitHub 상태 -->
 [![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji428)](https://github.com/minji428/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji428&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minji1803)](https://solved.ac/minji1803/)
