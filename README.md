@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=MinJi%20Park&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000003)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=MinJi%20Park&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 <!-- Notion -->
 <a href="https://sulfuric-tin-0be.notion.site/283fe820d65e417693805e57f34bc4f9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
