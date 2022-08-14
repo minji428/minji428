@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm web developer using Spring boot and React.
 
-I enjoy wimming, dive and surf.
+I enjoy wimming, dive and surf. <hr/>
 I hope to develop every beautiful things.
