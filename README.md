@@ -26,6 +26,10 @@ I enjoy wimming, dive and surf. <br/>
 I hope to develop every beautiful things.
 
 
+
+<!-- Skill -->
+### Skills
+## Platforms & Languages
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 
