@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji428&count_bg=%23F7B7EA&title_bg=%23FF67B9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20MINJI!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+
 <!-- Notion -->
 <a href="https://sulfuric-tin-0be.notion.site/283fe820d65e417693805e57f34bc4f9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/alswl980428@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a target="_blank" href="mailto:alswl980428@gmail.com"><img src="https://img.shields.io/badge/gamil-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <img src="https://img.shields.io/badge/minji_428-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
 
@@ -63,3 +65,5 @@ I hope to develop every beautiful things. ✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji428&layout=compact)
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minji1803)](https://solved.ac/minji1803/)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji428&count_bg=%23F7B7EA&title_bg=%23FF67B9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
