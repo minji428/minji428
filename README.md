@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-<a href="https://sulfuric-tin-0be.notion.site/283fe820d65e417693805e57f34bc4f9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="https://sulfuric-tin-0be.notion.site/283fe820d65e417693805e57f34bc4f9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
 ### 👋 Hello! My name is Minji, I am a developer working at <br/>
