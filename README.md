@@ -71,4 +71,7 @@ I hope to develop every beautiful things. ✨
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minji1803)](https://solved.ac/minji1803/)
 
+<div align="right">
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji428&count_bg=%23F7B7EA&title_bg=%23FF67B9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
