@@ -70,6 +70,7 @@ I hope to develop every beautiful things. ✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji428&layout=compact)
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minji1803)](https://solved.ac/minji1803/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/alswl980428)](https://leetcode.com/alswl980428)
 
 <div align="right">
   
