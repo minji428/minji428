@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- Notion -->
 <a href="https://sulfuric-tin-0be.notion.site/283fe820d65e417693805e57f34bc4f9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-<a href="mailto:alswl980428@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gamil-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:minjipark.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gamil-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/minji_428" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
